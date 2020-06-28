@@ -15,6 +15,6 @@ This script resets the speaker balance.
 Usage
 -----
 
-The `reset-audio-balance.zip` ZIP archive contains the `reset-audio-balance.app` Automator app. It can be downloaded here: https://github.com/jpwenzel/reset-audio-balance/releases/
+The `reset-audio-balance.zip` ZIP archive contains the `reset-audio-balance.app` Automator app. It can be downloaded here: https://github.com/jpwenzel/reset-audio-balance/archive/main.zip
 
 Extract the ZIP file and execute the app to reset the volume balance.
